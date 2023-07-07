@@ -1,0 +1,102 @@
+POSIBLES IDEAS:
+
+
+PASOS:
+Data Collect(Ingestion)
+Data Curate (ETL work for data cleansing)
+Data Report (Data storage – purified data for analyst and data scientists)
+Data Serve (Data presentation for BI and operational DB)
+Data Predict (Modeling with Machine Learning & AI)
+
+
+DEBE HABER:
+Steps that will be simulated-> meterlo a una bases de datos SQL, coger varios datasets, hacer cosis con Sparck y mlib
+	Data Migration from EDW to Hadoop
+	Data Ingestion from various sources
+	Data transformation and store
+		• Extract, Transform and Load (ETL)
+		• Store to HDFS – to be used by various tools such as Hive, Spark, Hbase
+		• Store to public cloud such as S3, ADLS, etc.
+	Data Processing and Analytics
+		• Transforming and combining datasets
+		• Creating operational datasets
+	Data Scientist Support
+		• Data preprocessing for creating AI models
+		• Business Intelligence and Visualization
+		
+POSIBLES TEMAS Y OBJETIVOS:
+datos estaticos y en steaming, ver cuantos tweets nos deja tener al dia?
+
+Salud mental se puede relacionar temperatura, tweets depresivos
+
+
+perfil de personas propensas a :drogas , tabaco.... 
+
+Violencia...
+
+contaminacion+ energias renovables, datos en streaming nivel de trafico de barcos o aviones 
+
+1)equidad de mujeres o hombres / ciencias o salud. sacar de tweer diferenciar po paises, igualdad de genero o desarrollo  dependiendo del pais-> ver etiqueta hombre o mujeh, objetivo:
+
+2)contaminacion + trafico, humd, aire..., medidas M30(Cuantificación del “verde” en nuestras ciudades.)
+
+ver las busquedas de tener resfriado y luego ver realmente que casos hay-> ayuda a prevenir sobrecarga en hospitales..., comporbar la base de datos de hospis.
+
+
+Educacion-> experiencias, hasta que nivel se llega a estudar, tasa de abandono
+
+Uso de transporte publico, se puede asociar economicamente...
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Análisis de sentimientos:
+
+DATOS(estaticos):
+-salud()
+-transporte
+-Educacion(%)
+
+
+Objetivo: 
+Analizar la calidad de los servicios bsicos para determinar calidad de vida/ salud mental/ minimos requisitos pa vivir.
+
+Localizacion: 
+Madrid capital
+
+
+OBJETIVOS:
+-Sacar opniones de twitter/Reddit. : sacar emociones (ira, disgusto, enfado, tristeza...)datos en streaming.
+
+
+tiempo:1 año.
+
+Aplicaciones:Evaluar las situación en los tres sectores pubicos por parte de la pblación.
+
+
+Proceso:
+Clasificar,analisis visual,
+
+----------------------------------------------------------------------------------------------------------------------------------
+Análisis de las emociones:
+
+	-Analizar los cambios de opnion, los que predominan el el campo de la salud.(politica,...).
+	
+-Analizar con los gasto publicos en el sector.datos estaticos
+
+
+Detecta de forma automática las emociones de los comentarios de los usuarios en redes sociales, desde el amor y la alegría hasta la tristeza y la ira.
+
+-----------------------------------------------------------
+
+
+Acoso cibernetico.
+--------------------------------------------------------------------------------------------
+LINKS IMPORTANTES:
+
+->link para usar python con twitter: https://platzi.com/blog/extraer-datos-twitter/
+
+
+
+
