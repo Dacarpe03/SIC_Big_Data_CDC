@@ -1,0 +1,39 @@
+sqoop import \
+--connect jdbc:mysql://localhost/sistema \
+--username student --password student \
+--fields-terminated-by ',' \
+--table universidades
+--hive-import \
+--hive-database 'sistema' \
+--hive-table 'universidades' \
+--split-by id
+
+sqoop import \
+--connect jdbc:mysql://localhost/sistema \
+--username student --password student \
+--fields-terminated-by ',' \
+--table facultades
+--hive-import \
+--hive-database 'sistema' \
+--hive-table 'facultades' \
+--split-by id
+
+sqoop import \
+--connect jdbc:mysql://localhost/sistema \
+--username student --password student \
+--fields-terminated-by ',' \
+--table grados
+--hive-import \
+--hive-database 'sistema' \
+--hive-table 'grados' \
+--split-by id
+
+sqoop import \
+--connect jdbc:mysql://localhost/sistema \
+--username student --password student \
+--fields-terminated-by ',' \
+--table tweets
+--hive-import \
+--hive-database 'tweets' \
+--hive-table 'universidades' \
+--split-by id
