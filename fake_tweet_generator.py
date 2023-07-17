@@ -139,9 +139,11 @@ if __name__ == "__main__":
   # Time between sending
   sleeptime = 2 
   
+  print(f"Creating socket for host:{host}:{port}")
   # Create socket
   s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
   s.connect((host,port))
+  print("Socket created sucessfully")
   
   # Instantiate faker to create fake usernames
   faker = Faker()
@@ -149,9 +151,14 @@ if __name__ == "__main__":
   # Loop to send tweets
   while(1):
     # Generate a fake tweet
+    print("Generating fake tweet:")
     tweet = generar_tweet_falso(faker)
+    print(tweet)
     # Parse the tweet
-    msg = f"{tweet['usuario']}\n"
+    msg = f"{tweet['usuario']},{tweet['mensaje']},{tweet['likes']}\n"
     # Send the tweet
-    s.send(msg.encode('ascii'))
+    print("Sending tweet")
+    s.send(msg.encode('utf-8'))
+    print("Tweet sent correctly")
+    print("Waiting for more tweets...")
     time.sleep(sleeptime)
