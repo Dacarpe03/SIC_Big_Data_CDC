@@ -1,39 +1,6 @@
-sqoop import \
---connect jdbc:mysql://localhost/sistema \
---username student --password student \
---fields-terminated-by ',' \
---table universidades
---hive-import \
---hive-database 'sistema' \
---hive-table 'universidades' \
---split-by id
+sqoop import --connect jdbc:mysql://localhost/proyecto_final --username student --password student --fields-terminated-by '\t' --table Universidades --hive-import --hive-database 'proyecto_final' --hive-table 'universidades' --split-by id
 
-sqoop import \
---connect jdbc:mysql://localhost/sistema \
---username student --password student \
---fields-terminated-by ',' \
---table facultades
---hive-import \
---hive-database 'sistema' \
---hive-table 'facultades' \
---split-by id
+sqoop import --connect jdbc:mysql://localhost/proyecto_final --username student --password student --fields-terminated-by '\t' --table Facultades --hive-import --hive-database 'proyecto_final' --hive-table 'facultades' --split-by id
 
-sqoop import \
---connect jdbc:mysql://localhost/sistema \
---username student --password student \
---fields-terminated-by ',' \
---table grados
---hive-import \
---hive-database 'sistema' \
---hive-table 'grados' \
---split-by id
+sqoop import --connect jdbc:mysql://localhost/proyecto_final --username student --password student --fields-terminated-by '\t' --table Grados --hive-import --hive-database 'proyecto_final' --hive-table 'grados' --split-by id
 
-sqoop import \
---connect jdbc:mysql://localhost/sistema \
---username student --password student \
---fields-terminated-by ',' \
---table tweets
---hive-import \
---hive-database 'tweets' \
---hive-table 'universidades' \
---split-by id
