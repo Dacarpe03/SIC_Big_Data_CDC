@@ -11,6 +11,8 @@ https://www.topuniversities.com/university-rankings/university-subject-rankings/
 
 https://www.adscientificindex.com/university/Universidad+Polit%C3%A9cnica+de+Madrid/
 
+https://estadisticas.universidades.gob.es/dynPx/inebase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2022/1_Grado&file=pcaxis&l=s0
+
 CAMPOS
 
 arte_diseno_arquitectura
