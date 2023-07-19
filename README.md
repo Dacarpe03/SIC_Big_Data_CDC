@@ -10,3 +10,17 @@ http://siiu.universidades.gob.es/QEDU/
 https://www.topuniversities.com/university-rankings/university-subject-rankings/2020/accounting-finance
 
 https://www.adscientificindex.com/university/Universidad+Polit%C3%A9cnica+de+Madrid/
+
+CAMPOS
+arte_diseno_arquitectura
+agricultura_forestal
+empresariales_administracion
+economicas
+educacion
+ingenieria_tecnologia
+historia_filosofia_teologia
+leyes_abogacia
+ciencias_salud
+ciencias_naturales
+ciencias_sociales
+otros
