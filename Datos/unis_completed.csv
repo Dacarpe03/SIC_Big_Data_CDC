@@ -18,26 +18,26 @@ Universidad Católica Santa Teresa de Jesús de Ávila ,Catholic University of �
 Universidad CEU San Pablo ,CEU San Pablo University,Universidad CEU San Pablo ,UCEU,Madrid,28003,44,0,1,2,4,0,4,1,2,8,5,1,37
 Universidad Pontificia Comillas ,Comillas Pontifical University,Universidad Pontificia Comillas ,UPCO,Madrid,28015,24,0,0,2,0,0,1,1,3,1,0,1,32
 Universidad Complutense de Madrid ,Complutense University of Madrid,Universidad Complutense de Madrid ,UCM,Madrid,28040,5,12,6,64,63,29,218,86,24,309,377,196,562
-CUNEF Universidad,CUNEF University,CUNEF Universidad,,Madrid,28040,-1,0,0,0,0,0,39,-1,-1,-1,-1,-1,-1
+CUNEF Universidad,CUNEF University,CUNEF Universidad,CUNEF,Madrid,28040,-1,0,0,0,0,0,39,-1,-1,-1,-1,-1,-1
 Conservatorio Superior de Música Eduardo Martínez Torner ,Eduardo Martínez Torner Music Conservatoire,Conservatorio Superior de Música Eduardo Martínez Torner ,CONSMUPA,Oviedo,33003,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
-ESIC Business and Marketing School,ESIC University,ESIC Universidad,,Pozuelo de Alarcón,28223,85,0,0,25,0,0,0,0,2,0,0,2,12
+ESIC Business and Marketing School,ESIC University,ESIC Universidad,ESIC,Pozuelo de Alarcón,28223,85,0,0,25,0,0,0,0,2,0,0,2,12
 "Instituto Europeo di Design, Madrid ","European Institute of Design, Madrid","Instituto Europeo di Design, Madrid ",IED Madrid,Madrid,28004,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad Europea de Madrid ,European University of Madrid,Universidad Europea de Madrid ,UEM,Villaviciosa de Odón,28670,20,0,0,1,0,0,1,0,1,2,1,1,9
 Universidad Europea del Atlántico ,European University of the Atlantic,Universidad Europea del Atlántico ,UNEATLANTICO,Santander,39011,27,0,0,0,1,0,1,1,0,5,0,3,30
-Universidad Europea de Canarias,European University of the Canary Islands,Universidad Europea de Canarias,,La Orotava,38311,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
-Universidad Europea de Valencia,European University of Valencia,Universidad Europea de Valencia,,Valencia,46021,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Europea de Canarias,European University of the Canary Islands,Universidad Europea de Canarias,UEC,La Orotava,38311,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Europea de Valencia,European University of Valencia,Universidad Europea de Valencia,UEV,Valencia,46021,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad Francisco de Vitoria ,Francisco de Vitoria University,Universidad Francisco de Vitoria ,UFV,Pozuelo de Alarcón,28223,13,0,0,2,1,1,0,1,0,14,11,2,56
-IE Universidad,IE University,IE Universidad,,Segovia,40003,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+IE Universidad,IE University,IE Universidad,IEU,Segovia,40003,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad Internacional Menéndez Pelayo ,International University Menéndez Pelayo,Universidad Internacional Menéndez Pelayo ,UIMP,Madrid,28040,128,0,0,0,0,0,0,0,0,0,0,0,5
 Universidad Internacional de Andalucía ,International University of Andalusia,Universidad Internacional de Andalucía ,UNIA,Sevilla,41092,57,1,0,0,0,0,0,0,0,0,0,0,5
 Universidad Internacional de Cataluña ,International University of Catalonia,Universitat Internacional de Catalunya,UIC,Barcelona,8017,8,0,1,1,1,1,3,0,1,14,1,4,51
-Universidad Internacional de La Rioja,International University of La Rioja,Universidad Internacional de La Rioja,,Logroño,41-26002,5,0,1,9,4,18,11,1,8,7,7,17,131
-Universitat Internacional Valenciana,International University of Valencia,Universidad Internacional de Valencia,,Valencia,46002,84,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Internacional de La Rioja,International University of La Rioja,Universidad Internacional de La Rioja,UILR,Logroño,41-26002,5,0,1,9,4,18,11,1,8,7,7,17,131
+Universitat Internacional Valenciana,International University of Valencia,Universidad Internacional de Valencia,UIV,Valencia,46002,84,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad de Jaime I ,Jaume I University,Universitat Jaume I,UJCS,Castellón de la Plana,12071,14,3,2,26,18,11,39,7,4,7,49,27,252
 Conservatorio Superior de Música Joaquín Rodrigo de Valencia ,Joaquín Rodrigo Music Conservatoire of Valencia,Conservatorio Superior de Música Joaquín Rodrigo de Valencia ,CSMV,Valencia,46013,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
-Conservatorio Superior de Música Juan Crisóstomo de Arriaga de Bilbao,"Juan Crisóstomo de Arriaga Music Conservatoire, Bilbao",Conservatorio Superior de Música Juan Crisóstomo de Arriaga de Bilbao,,Bilbao,48015,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Conservatorio Superior de Música Juan Crisóstomo de Arriaga de Bilbao,"Juan Crisóstomo de Arriaga Music Conservatoire, Bilbao",Conservatorio Superior de Música Juan Crisóstomo de Arriaga de Bilbao,CSMJCAB,Bilbao,48015,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad Rey Juan Carlos ,King Juan Carlos University,Universidad Rey Juan Carlos ,URJC,Móstoles,28933,39,5,1,25,14,7,43,6,13,11,16,21,187
-Universidad Loyola Andalucía,Loyola University Andalusia,Universidad Loyola Andalucía,,Sevilla,41704,7,1,0,3,5,1,4,2,1,2,0,11,28
+Universidad Loyola Andalucía,Loyola University Andalusia,Universidad Loyola Andalucía,ULA,Sevilla,41704,7,1,0,3,5,1,4,2,1,2,0,11,28
 Conservatorio Superior de Música Manuel Castillo de Sevilla ,"Manuel Castillo Music Conservatoire, Seville",Conservatorio Superior de Música Manuel Castillo de Sevilla ,CSMS,Sevilla,41002,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Conservatorio Superior de Musica de Murcia Manuel Massotti Littel,Manuel Massotti Littel Music Conservatoire of Murcia,Conservatorio Superior de Musica de Murcia Manuel Massotti Littel,,Murcia,30004,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
 Universidad Europea Miguel de Cervantes ,Miguel de Cervantes European University,Universidad Europea Miguel de Cervantes ,UEMC,Valladolid,47012,47,0,0,4,0,0,0,0,0,2,1,2,29
