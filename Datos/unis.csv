@@ -1,20 +1,20 @@
 nombre,nombre_ingles,nombre_regional,siglas,cuidad,codigo_postal
 Universidad Nacional de Educación a Distancia ,National University of Distance Education,Universidad Nacional de Educación a Distancia ,UNED,Madrid,28015
-Universidad Abierta de Cataluña ,Open University of Cataluña,Universitat Oberta de Catalunya,UOC,Barcelona,08035
-,Universidad Politécnica de Madrid,,UPM,Madrid,28040
-Universidad de Barcelona ,University of Barcelona,Universitat de Barcelona,UB,Barcelona,08007
+Universidad Abierta de Cataluña ,Open University of Cataluña,Universitat Oberta de Catalunya,UOC,Barcelona,8035
+Universidad Politécnica de Madrid,,Universidad Politécnica de Madrid,UPM,Madrid,28040
+Universidad de Barcelona ,University of Barcelona,Universitat de Barcelona,UB,Barcelona,8007
 Universidad de Granada ,University of Granada,Universidad de Granada ,UGR,Granada,18010
 Universidad de Málaga ,University of Málaga,Universidad de Málaga ,UMA,Málaga,29071
 Universidad de Salamanca ,University of Salamanca,Universidad de Salamanca ,USA,Salamanca,37008
-Universitat Abat Oliba CEU ,Abat Oliba CEU University,Universitat Abat Oliba CEU ,UAOC,Barcelona,08022
+Universitat Abat Oliba CEU ,Abat Oliba CEU University,Universitat Abat Oliba CEU ,UAOC,Barcelona,8022
 Universidad Alfonso X El Sabio ,Alfonso X El Sabio University,Universidad Alfonso X El Sabio ,UAX,Villanueva de la Cañada,28691
 Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana ,Art Institute of the Community of Valencia,Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana ,ISEACV,Valencia,46010
-Universidad Autónoma de Barcelona ,Autonomous University of Barcelona,Universitat Autónoma de Barcelona,UAB,Cerdanyola del Vallès,08193
+Universidad Autónoma de Barcelona ,Autonomous University of Barcelona,Universitat Autónoma de Barcelona,UAB,Cerdanyola del Vallès,8193
 Universidad Autónoma de Madrid ,Autonomous University of Madrid,Universidad Autónoma de Madrid ,UAM,Cantoblanco,28049
 Universidad Camilo José Cela ,Camilo José Cela University,Universidad Camilo José Cela ,UCJC,Villafranca del Castillo,28692
 Universidad Cardenal Herrera-CEU ,Cardinal Herrera-CEU University,Universidad Cardenal Herrera-CEU ,UCH,Moncada,46113
 Universidad Carlos III de Madrid ,Carlos III University of Madrid,Universidad Carlos III de Madrid ,UCAR,Getafe,28903
-Universidad Católica Santa Teresa de Jesús de Ávila ,Catholic University of Ávila,Universidad Católica Santa Teresa de Jesús de Ávila ,UCAVILA,Ávila,05005
+Universidad Católica Santa Teresa de Jesús de Ávila ,Catholic University of Ávila,Universidad Católica Santa Teresa de Jesús de Ávila ,UCAVILA,Ávila,5005
 Universidad CEU San Pablo ,CEU San Pablo University,Universidad CEU San Pablo ,UCEU,Madrid,28003
 Universidad Pontificia Comillas ,Comillas Pontifical University,Universidad Pontificia Comillas ,UPCO,Madrid,28015
 Universidad Complutense de Madrid ,Complutense University of Madrid,Universidad Complutense de Madrid ,UCM,Madrid,28040
@@ -30,7 +30,7 @@ Universidad Francisco de Vitoria ,Francisco de Vitoria University,Universidad Fr
 IE Universidad,IE University,IE Universidad,,Segovia,40003
 Universidad Internacional Menéndez Pelayo ,International University Menéndez Pelayo,Universidad Internacional Menéndez Pelayo ,UIMP,Madrid,28040
 Universidad Internacional de Andalucía ,International University of Andalusia,Universidad Internacional de Andalucía ,UNIA,Sevilla,41092
-Universidad Internacional de Cataluña ,International University of Catalonia,Universitat Internacional de Catalunya,UIC,Barcelona,08017
+Universidad Internacional de Cataluña ,International University of Catalonia,Universitat Internacional de Catalunya,UIC,Barcelona,8017
 Universidad Internacional de La Rioja,International University of La Rioja,Universidad Internacional de La Rioja,,Logroño,41-26002
 Universitat Internacional Valenciana,International University of Valencia,Universidad Internacional de Valencia,,Valencia,46002
 Universidad de Jaime I ,Jaume I University,Universitat Jaume I,UJCS,Castellón de la Plana,12071
@@ -41,30 +41,30 @@ Universidad Loyola Andalucía,Loyola University Andalusia,Universidad Loyola And
 Conservatorio Superior de Música Manuel Castillo de Sevilla ,"Manuel Castillo Music Conservatoire, Seville",Conservatorio Superior de Música Manuel Castillo de Sevilla ,CSMS,Sevilla,41002
 Conservatorio Superior de Musica de Murcia Manuel Massotti Littel,Manuel Massotti Littel Music Conservatoire of Murcia,Conservatorio Superior de Musica de Murcia Manuel Massotti Littel,,Murcia,30004
 Universidad Europea Miguel de Cervantes ,Miguel de Cervantes European University,Universidad Europea Miguel de Cervantes ,UEMC,Valladolid,47012
-Universidad Miguel Hernández de Elche ,Miguel Hernández University of Elche,Universidad Miguel Hernández de Elche ,UMH,Elche,03202
+Universidad Miguel Hernández de Elche ,Miguel Hernández University of Elche,Universidad Miguel Hernández de Elche ,UMH,Elche,3202
 Conservatorio Superior de Música da Coruña,Music Conservatoire of A Coruña,Conservatorio Superior de Música da Coruña,,A Coruña,15011
 Conservatorio Superior de Música de Aragón ,Music Conservatoire of Aragon,Conservatorio Superior de Música de Aragón ,CSMA,Zaragoza,50009
-Conservatorio Superior de Música Bonifacio Gil,Music Conservatoire of Extremadura,Conservatorio Superior de Música Bonifacio Gil,,Badajoz,06001
+Conservatorio Superior de Música Bonifacio Gil,Music Conservatoire of Extremadura,Conservatorio Superior de Música Bonifacio Gil,,Badajoz,6001
 Conservatorio Superior de Música de Málaga,Music Conservatoire of Málaga,Conservatorio Superior de Música de Málaga,,Málaga,29013
 Conservatorio Superior de Música de Navarra,Music Conservatoire of Navarra,Conservatorio Superior de Música de Navarra,,Pamplona,31008
 Conservatorio Superior de Música de Castilla y León,Music Conservatoire of of Castilla y León,Conservatorio Superior de Música de Castilla y León,,Salamanca,37005
-Conservatori Superior de Música de les Illes Balears ,Music Conservatoire of the Ballearic Islands,Conservatori Superior de Música de les Illes Balears ,CSMIB,Palma,07004
+Conservatori Superior de Música de les Illes Balears ,Music Conservatoire of the Ballearic Islands,Conservatori Superior de Música de les Illes Balears ,CSMIB,Palma,7004
 Conservatorio Superior de Música de Canarias ,Music Conservatoire of the Canary Islands,Conservatorio Superior de Música de Canarias ,CSMC,Las Palmas de Gran Canaria,35002
-Conservatori Superior de Música del Liceu,Music Conservatoire of the Liceu,Conservatori Superior de Música del Liceu,,Barcelona,08001
+Conservatori Superior de Música del Liceu,Music Conservatoire of the Liceu,Conservatori Superior de Música del Liceu,,Barcelona,8001
 Conservatorio Superior de Música de Vigo,Music Conservatoire of Vigo,Conservatorio Superior de Música de Vigo,,Vigo,36203
-Escola Superior de Música de Catalunya,Music School of Catalonia,Escola Superior de Música de Catalunya,,Barcelona,08013
+Escola Superior de Música de Catalunya,Music School of Catalonia,Escola Superior de Música de Catalunya,,Barcelona,8013
 Euskal Herriko Goi-Mailako Musika Ikastegia,Musikene - Higher School of Music of the Basque Country,Musikene - Centro Superior de Música del País Vasco,,Donostia-San Sebastián,20018
 Universidad Antonio de Nebrija ,Nebrija University,Universidad Antonio de Nebrija ,UAN,Hoyos de Manzanares,28248
 Universidad a Distancia de Madrid,Open University of Madrid,Universidad a Distancia de Madrid,,Collado Villalba,28400
-Conservatorio Superior de Música Oscar Esplá de Alicante ,"Oscar Esplá Music Conservatoire, Alicante",Conservatorio Superior de Música Oscar Esplá de Alicante ,CSMA,Alicante,03005
+Conservatorio Superior de Música Oscar Esplá de Alicante ,"Oscar Esplá Music Conservatoire, Alicante",Conservatorio Superior de Música Oscar Esplá de Alicante ,CSMA,Alicante,3005
 Universidad Pablo de Olavide ,Pablo de Olavide University,Universidad Pablo de Olavide ,UPO,Sevilla,41013
 Universidad Politécnica de Cartagena ,Polytechnic University of Cartagena,Universidad Politécnica de Cartagena ,UPCT,Cartagena,30202
 Universitat Politècnica de València ,Polytechnic University of Valencia,Universitat Politècnica de València ,UPVA,Valencia,46022
-Universidad Pompeu Fabra ,Pompeu Fabra University,Universitat Pompeu Fabra,UPF,Barcelona,08002
+Universidad Pompeu Fabra ,Pompeu Fabra University,Universitat Pompeu Fabra,UPF,Barcelona,8002
 Universidad Pontificia de Salamanca ,Pontifical University of Salamanca,Universidad Pontificia de Salamanca ,UPSA,Salamanca,37002
 Universidad Pública de Navarra ,Public University of Navarra,Universidad Pública de Navarra ,UPNA,Pamplona,31006
 Conservatorio Superior de Música de Córdoba Rafael Orozco,Rafael Orozco Music Conservatoire of Cordoba,Conservatorio Superior de Música de Córdoba Rafael Orozco,,Córdoba,14003
-Universitat Ramon Llull ,Ramon Llull University,Universitat Ramon Llull ,URL,Barcelona,08022
+Universitat Ramon Llull ,Ramon Llull University,Universitat Ramon Llull ,URL,Barcelona,8022
 Universidad Rovira y Virgili ,Rovira i Virgili University,Universitat Rovira i Virgili,URV,Tarragona,43003
 Real Escuela Superior de Arte Dramático ,Royal Higher College of Performing Arts,Real Escuela Superior de Arte Dramático ,RESAD,Madrid,28009
 Real Conservatorio Superior de Música de Madrid,Royal Music Conservatoire of Madrid,Real Conservatorio Superior de Música de Madrid,,Madrid,28012
@@ -75,20 +75,20 @@ Escola Superior de Conservación e Restauración de Bens Culturais de Galicia,Sc
 Escuela Superior de Arte Dramático de Murcia ,School of Dramatic Art of Murcia,Escuela Superior de Arte Dramático de Murcia ,ESAD Murcia,Murcia,30001
 Escuela Superior de Arte Dramático de Sevilla ,School of Dramatic Art of Seville,Escuela Superior de Arte Dramático de Sevilla ,ESAD Sevilla,Sevilla,41002
 Escuela Superior de Arte Dramático de Valencia ,School of Dramatic Art of Valencia,Escuela Superior de Arte Dramático de Valencia ,ESADV,Valencia,46022
-Institut del Teatre,Theatre Institute of Barcelona,Institut del Teatre,,Barcelona,08003
-Universidad Politécnica de Cataluña ,Universitat Politècnica de Catalunya - Barcelona Tech,Universitat Politècnica de Catalunya - BarcelonaTech,UPC,Barcelona,08034
-Universidad Isabel I,University Isabel 1,Universidad Isabel I,,Burgos,09003
+Institut del Teatre,Theatre Institute of Barcelona,Institut del Teatre,,Barcelona,8003
+Universidad Politécnica de Cataluña ,Universitat Politècnica de Catalunya - Barcelona Tech,Universitat Politècnica de Catalunya - BarcelonaTech,UPC,Barcelona,8034
+Universidad Isabel I,University Isabel 1,Universidad Isabel I,,Burgos,9003
 Universidade da Coruña ,University of A Coruña,Universidade da Coruña ,UDC,A Coruña,15001
 Universidad de Alcalá ,University of Alcalá,Universidad de Alcalá ,UAH,Alcalá de Henares,28801
-Universitat d'Alacant ,University of Alicante,Universidad de Alicante,UAL,San Vicent del Raspeig,03690
-Universidad de Almería ,University of Almería,Universidad de Almería ,UALM,La Cañada de San Urbano,04120
-Universidad de Burgos ,University of Burgos,Universidad de Burgos ,UBU,Burgos,09001
+Universitat d'Alacant ,University of Alicante,Universidad de Alicante,UAL,San Vicent del Raspeig,3690
+Universidad de Almería ,University of Almería,Universidad de Almería ,UALM,La Cañada de San Urbano,4120
+Universidad de Burgos ,University of Burgos,Universidad de Burgos ,UBU,Burgos,9001
 Universidad de Cádiz ,University of Cádiz,Universidad de Cádiz ,UCA,Cádiz,11001
 Universidad de Cantabria ,University of Cantabria,Universidad de Cantabria ,UC,Santander,39005
 Universidad de Castilla-La Mancha ,University of Castilla-La Mancha,Universidad de Castilla-La Mancha ,UCLM,Ciudad Real,13071
 Universidad de Córdoba ,University of Córdoba,Universidad de Córdoba ,UCO,Córdoba,14071
 Universidad de Deusto ,University of Deusto,Universidad de Deusto ,UDE,Bilbao,48007
-Universidad de Extremadura ,University of Extremadura,Universidad de Extremadura ,UEx,Badajoz,06006
+Universidad de Extremadura ,University of Extremadura,Universidad de Extremadura ,UEx,Badajoz,6006
 Universidad de Gerona ,University of Girona,Universitat de Girona,UDG,Girona,17004
 Universidad de Huelva ,University of Huelva,Universidad de Huelva ,UHU,Huelva,21071
 Universidad de Jaén ,University of Jaén,Universidad de Jaén ,UJA,Jaén,23071
@@ -99,3 +99,15 @@ Universidad de León ,University of León,Universidad de León ,UNILEON,León,24
 Universidad de Lérida ,University of Lleida,Universitat de Lleida,UDL,Lleida,25003
 Mondragón Unibertsitatea ,University of Mondragón,Mondragón Unibertsitatea ,UM,Arrasate-Mondragón,20500
 Universidad de Murcia ,University of Murcia,Universidad de Murcia ,UMU,Murcia,30003
+Universidad de Navarra ,University of Navarra,Universidad de Navarra ,UNA,Pamplona,31009
+Universidad de Oviedo ,University of Oviedo,Universidad de Oviedo ,UOV,Oviedo,33003
+Universidad de Santiago de Compostela ,University of Santiago de Compostela,Universidad de Santiago de Compostela ,USC,Santiago de Compostela,15782
+Universidad de Sevilla ,University of Seville,Universidad de Sevilla ,USE,Sevilla,41004
+Universidad de las Islas Baleares ,University of the Balearic Islands,Universitat de les Illes Balears,UIB,Palma,7122
+Universidad del País Vasco - Euskal Herriko Unibertsitatea ,University of the Basque Country,Universidad del País Vasco - Euskal Herriko Unibertsitatea ,UPV/EHU,Leioa,48940
+Universidad de Valencia ,University of Valencia,Universitat de València,UVEG,Valencia,46010
+Universidad de Valladolid ,University of Valladolid,Universidad de Valladolid ,UVA,Valladolid,47002
+Universitat de Vic-Universitat Central de Catalunya ,University of Vic-Central University of Catalunya,Universitat de Vic-Universitat Central de Catalunya ,UVic-UCC,Vic,8500
+Universidad de Vigo ,University of Vigo,Universidad de Vigo ,UVI,Vigo,36310
+Universidad de Zaragoza ,University of Zaragoza,Universidad de Zaragoza ,UZA,Zaragoza,50009
+Real Conservatorio Superior de Música Victoria Eugenia de Granada ,Victoria Eugenia Royal Music Conservatoire of Granda,Real Conservatorio Superior de Música Victoria Eugenia de Granada ,RCSMVE,Granada,18001
