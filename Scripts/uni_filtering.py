@@ -28,7 +28,7 @@ if __name__ == '__main__':
 	
 	uni_ranks_df = uni_ranks_df[(uni_ranks_df['nombre_regional'].apply(str.strip).isin(nombres_uni))]
 	print(uni_ranks_df)
-	uni_ranks.to_csv('../Datos/uni_rankings_final.csv', index=False)
+	uni_ranks_df.to_csv('../Datos/uni_rankings_final.csv', index=False)
 	
 
 
