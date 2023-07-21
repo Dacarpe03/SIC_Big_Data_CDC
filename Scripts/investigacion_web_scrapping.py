@@ -38,7 +38,7 @@ def create_ranking_df(nombre):
 		"nombre",
 		"posicion_hindex",
 		"agricultura_forestal",
-		"arte_diseno_cultura",
+		"arte_diseno_arquitectura",
 		"empresariales_administracion",
 		"economicas",
 		"educacion",
