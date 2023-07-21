@@ -1,1 +1,1 @@
-create external table tweets (usuario string, mensaje string, likes int) row format delimited fields terminated by '\t';
+create external table tweets (usuario string, siglas string, mensaje string, likes int) row format delimited fields terminated by '\t';
