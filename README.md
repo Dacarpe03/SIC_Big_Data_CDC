@@ -59,10 +59,15 @@ otros
    - Crea la tabla de tweets desde hive con el comando(consulta el fichero Scripts/external_table_tweets): ```console create external table tweets (usuario string, siglas string, mensaje string, likes int) row format delimited fields terminated by '\t';```
 7. Crea un directorio en hdfs para el preprocesado de tweets:
    - Abre una nueva consola
-   - Ejecuta el siguiente comando: ```console 
+   - Crea el directorio con el comando: ```console hdfs dfs -mkdir /user/student/tweets_precprocessing```
+8. Configura el archivo de preprocesado de tweets:
+   - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
+   - Edita el archivo auto_process.sh con el siguiente comando: ```nano auto_process.sh```
+   - En la línea PIG_SCRIPT=... asegúrate de que la ruta al archivo 'pig_tweets_preprocessing.pig' sea correcta.
+   - Guarda el archivo con los cambios si los has realizado
+   - Ejecuta el siguiente comando para darle permisos de ejecución: ```console chmod u+x auto_process.sh```
 9. Configura crontab para que ejecute el script de preprocesado de tweets cada minuto
    - Abre una consola
    - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
-   - Ejecuta el siguiente comando para dar permisos al script de preprocesado: ```console chmod u+x autoprocess.sh```
-   - Ejecuta EDITOR=nano crontab -e
+   - Ejecuta el siguiente comando para editar crontab: ```console EDITOR=nano crontab -e```
    - Copia el contenido de crontab_configuration y guarda el archivo 
