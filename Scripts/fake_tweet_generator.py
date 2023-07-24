@@ -17,7 +17,7 @@ import pandas as pd
 from faker import Faker
 
 
-dfUnis = pd.read_csv('/home/alumno/Descargas/uni_rankings_final.csv')
+dfUnis = pd.read_csv('../uni_rankings_final.csv')
 listSiglas = dfUnis['siglas']
 listUnis = dfUnis['nombre_regional'].apply(str.strip)
 universidades = dict()
@@ -210,7 +210,6 @@ if __name__ == "__main__":
     # Generate a fake tweet
     print("Generating fake tweet:")
     tweet = generar_tweet_falso(faker)
-    print(tweet)
     # Parse the tweet
     msg = f"{tweet['usuario']},{tweet['mensaje']},{tweet['likes']}\n"
     # Send the tweet
