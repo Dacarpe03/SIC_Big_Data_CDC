@@ -17,7 +17,7 @@ import pandas as pd
 from faker import Faker
 
 
-dfUnis = pd.read_csv('../uni_rankings_final.csv')
+dfUnis = pd.read_csv('../Datos/uni_rankings_final.csv')
 listSiglas = dfUnis['siglas']
 listUnis = dfUnis['nombre_regional'].apply(str.strip)
 universidades = dict()
@@ -181,7 +181,7 @@ def generar_tweet_falso(faker):
     usuario = faker.user_name()
     likes = random.randint(0, 1000)
     uni = random.choice(list(universidades.keys()))
-    mensaje = random.choice(frases).replace("{universidad}", uni).replace("{hashtag}", universidades.get(uni))
+    mensaje = random.choice(frases).replace("{universidad}", uni).replace("{hashtag}", '#'+universidades.get(uni))
 
     return {'usuario': usuario, 'mensaje': mensaje, 'likes': likes}
   
@@ -212,7 +212,7 @@ if __name__ == "__main__":
     tweet = generar_tweet_falso(faker)
     print(tweet)
     # Parse the tweet
-    msg = f"{tweet['usuario']}   {tweet['mensaje']}   {tweet['likes']}\n"
+    msg = f"{tweet['usuario']}	{tweet['mensaje']}	{tweet['likes']}\n"
     # Send the tweet
     print("Sending tweet")
     s.send(msg.encode('utf-8'))
