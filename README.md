@@ -13,28 +13,26 @@ https://www.adscientificindex.com/university/Universidad+Polit%C3%A9cnica+de+Mad
 
 https://estadisticas.universidades.gob.es/dynPx/inebase/index.htm?type=pcaxis&path=/Universitaria/Indicadores/2022/1_Grado&file=pcaxis&l=s0
 
-CAMPOS
-
-arte_diseno_arquitectura
+arte_diseno_arquitectura: arquitectura, diseño, bellas artes
 
 agricultura_forestal
 
-empresariales_administracion
+empresariales_administracion: empresa, empresariales, relaciones
 
-economicas
+economicas: economicas
 
-educacion
+educacion: educación
 
-ingenieria_tecnologia
+ingenieria_tecnologia: Ingenieria, politécnica, informática,
 
-historia_filosofia_teologia
+historia_filosofia_teologia:filosofía, historia
 
-leyes_abogacia
+leyes_abogacia: derecho, jurídicas
 
-ciencias_salud
+ciencias_salud: psicología, salud, medicina , farmacia, alimentación, deporte, ontodología
 
-ciencias_naturales
+ciencias_naturales: Física, matematicas
 
-ciencias_sociales
+ciencias_sociales: comunicación, humanidades, sociologia , humana
 
 otros
