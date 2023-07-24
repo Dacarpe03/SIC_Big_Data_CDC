@@ -63,7 +63,7 @@ otros
    - Crea la tabla de tweets desde hive con el comando(consulta el fichero Scripts/external_table_tweets): ```create external table tweets (usuario string, siglas string, mensaje string, likes int) row format delimited fields terminated by '\t';```
 7. Crea un directorio en hdfs para el preprocesado de tweets:
    - Abre una nueva consola
-   - Crea el directorio con el comando: ```hdfs dfs -mkdir /user/student/tweets_precprocessing```
+   - Crea el directorio con el comando: ```hdfs dfs -mkdir /user/student/tweets_preprocessing```
 8. Configura el archivo de preprocesado de tweets:
    - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
    - Edita el archivo auto_process.sh con el siguiente comando: ```nano auto_process.sh```
