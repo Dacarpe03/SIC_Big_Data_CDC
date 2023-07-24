@@ -1,0 +1,89 @@
+nombre,nombre_ingles,nombre_regional,siglas,cuidad,codigo_postal,posicion_hindex,agricultura_forestal,arte_diseno_arquitectura,empresariales_administracion,economicas,educacion,ingenieria_tecnologia,historia_filosofia_teologia,leyes_abogacia,ciencias_salud,ciencias_naturales,ciencias_sociales,otros
+Universidad Nacional de Educación a Distancia ,National University of Distance Education,Universidad Nacional de Educación a Distancia,UNED,Madrid,28015,57,0,1,1,5,4,23,4,5,0,4,13,71
+Universidad Abierta de Cataluña ,Open University of Cataluña,Universidad Oberta de Catalunya,UOC,Barcelona,8035,38,0,5,12,4,9,17,1,5,4,3,39,135
+Universidad Politécnica de Madrid,,Universidad Politécnica de Madrid,UPM,Madrid,28040,33,26,7,4,1,3,58,1,0,4,19,6,251
+Universidad de Barcelona ,University of Barcelona,Universidad de Barcelona,UB,Barcelona,8007,1,15,6,9,23,21,73,12,16,97,145,70,674
+Universidad de Granada ,University of Granada,Universidad de Granada,UGR,Granada,18010,18,0,3,10,8,11,19,12,15,14,27,39,249
+Universidad de Málaga ,University of Málaga,Universidad de Málaga,UMA,Málaga,29071,55,2,0,14,2,3,14,3,11,7,6,22,229
+Universidad de Salamanca ,University of Salamanca,Universidad de Salamanca,USA,Salamanca,37008,15,9,4,12,17,23,58,19,18,95,109,77,474
+Universitat Abat Oliba CEU ,Abat Oliba CEU University,Universitat Abat Oliba CEU,UAOC,Barcelona,8022,31,0,0,5,2,0,0,2,6,0,0,7,18
+Universidad Alfonso X El Sabio ,Alfonso X El Sabio University,Universidad Alfonso X El Sabio,UAX,Villanueva de la Cañada,28691,26,0,0,0,1,0,0,0,0,6,3,4,21
+Universidad Autónoma de Barcelona ,Autonomous University of Barcelona,Universidad Autónoma de Barcelona,UAB,Cerdanyola del Vallès,8193,51,3,2,8,2,4,7,3,5,10,13,18,91
+Universidad Autónoma de Madrid ,Autonomous University of Madrid,Universidad Autónoma de Madrid,UAM,Cantoblanco,28049,6,10,0,16,29,20,97,31,11,40,185,117,236
+Universidad Camilo José Cela ,Camilo José Cela University,Universidad Camilo José Cela,UCJC,Villafranca del Castillo,28692,71,0,1,0,0,1,0,1,0,3,0,10,23
+Universidad Cardenal Herrera-CEU ,Cardinal Herrera-CEU University,Universidad Cardenal Herrera-CEU,UCH,Moncada,46113,73,0,0,6,0,0,1,1,2,4,2,0,37
+Universidad Carlos III de Madrid ,Carlos III University of Madrid,Universidad Carlos III de Madrid,UCAR,Getafe,28903,40,0,1,38,51,5,157,12,11,3,56,27,175
+Universidad Católica Santa Teresa de Jesús de Avila,Catholic University of Ávila,Universidad Católica Santa Teresa de Jesús de Avila,UCAVILA,Ávila,5005,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad CEU San Pablo ,CEU San Pablo University,Universidad San Pablo-CEU,UCEU,Madrid,28003,44,0,1,2,4,0,4,1,2,8,5,1,37
+Universidad Pontificia Comillas ,Comillas Pontifical University,Universidad Pontificia Comillas,UPCO,Madrid,28015,24,0,0,2,0,0,1,1,3,1,0,1,32
+Universidad Complutense de Madrid ,Complutense University of Madrid,Universidad Complutense de Madrid,UCM,Madrid,28040,5,12,6,64,63,29,218,86,24,309,377,196,562
+CUNEF Universidad,CUNEF University,CUNEF Universidad,CUNEF,Madrid,28040,-1,0,0,0,0,0,39,-1,-1,-1,-1,-1,-1
+ESIC Business and Marketing School,ESIC University,ESIC Universidad,ESIC,Pozuelo de Alarcón,28223,85,0,0,25,0,0,0,0,2,0,0,2,12
+Universidad Europea de Madrid ,European University of Madrid,Universidad Europea de Madrid,UEM,Villaviciosa de Odón,28670,20,0,0,1,0,0,1,0,1,2,1,1,9
+Universidad Europea del Atlántico ,European University of the Atlantic,Universidad Europea del Atlántico,UNEATLANTICO,Santander,39011,27,0,0,0,1,0,1,1,0,5,0,3,30
+Universidad Europea de Canarias,European University of the Canary Islands,Universidad Europea de Canarias,UEC,La Orotava,38311,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Europea de Valencia,European University of Valencia,Universidad Europea de Valencia,UEV,Valencia,46021,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Francisco de Vitoria ,Francisco de Vitoria University,Universidad Francisco de Vitoria,UFV,Pozuelo de Alarcón,28223,13,0,0,2,1,1,0,1,0,14,11,2,56
+IE Universidad,IE University,IE Universidad,IEU,Segovia,40003,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Internacional de Cataluña ,International University of Catalonia,Universidad Internacional de Catalunya,UIC,Barcelona,8017,8,0,1,1,1,1,3,0,1,14,1,4,51
+Universidad Internacional de La Rioja,International University of La Rioja,Universidad Internacional de la Rioja,UILR,Logroño,41-26002,5,0,1,9,4,18,11,1,8,7,7,17,131
+Universitat Internacional Valenciana,International University of Valencia,Universidad Internacional Valenciana,UIV,Valencia,46002,84,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad de Jaime I ,Jaume I University,Universidad Jaume I de Castellón,UJCS,Castellón de la Plana,12071,14,3,2,26,18,11,39,7,4,7,49,27,252
+Universidad Rey Juan Carlos ,King Juan Carlos University,Universidad Rey Juan Carlos,URJC,Móstoles,28933,39,5,1,25,14,7,43,6,13,11,16,21,187
+Universidad Loyola Andalucía,Loyola University Andalusia,Universidad Loyola Andalucía,ULA,Sevilla,41704,7,1,0,3,5,1,4,2,1,2,0,11,28
+Universidad Europea Miguel de Cervantes ,Miguel de Cervantes European University,Universidad Europea Miguel de Cervantes,UEMC,Valladolid,47012,47,0,0,4,0,0,0,0,0,2,1,2,29
+Universidad Miguel Hernández de Elche ,Miguel Hernández University of Elche,Universidad Miguel Hernández de Elche,UMH,Elche,3202,-1,0,0,0,0,0,0,0,0,0,0,0,32
+Universidad Antonio de Nebrija ,Nebrija University,Universidad Antonio de Nebrija,UAN,Hoyos de Manzanares,28248,66,0,3,6,1,3,2,0,1,2,0,4,54
+Universidad a Distancia de Madrid,Open University of Madrid,Universidad a Distancia de Madrid,UDM,Collado Villalba,28400,32,0,1,2,0,2,2,1,5,0,0,4,28
+Universidad Pablo de Olavide ,Pablo de Olavide University,Universidad Pablo de Olavide,UPO,Sevilla,41013,35,7,0,15,26,11,12,6,7,8,34,28,149
+Universidad Politécnica de Cartagena ,Polytechnic University of Cartagena,Universidad Politécnica de Cartagena,UPCT,Cartagena,30202,46,14,2,5,9,0,20,0,1,0,8,3,112
+Universitat Politècnica de València ,Polytechnic University of Valencia,Universidad Politécnica de Valencia,UPVA,Valencia,46022,11,38,22,30,12,2,177,0,0,6,103,20,676
+Universidad Pompeu Fabra,Pompeu Fabra University,Universidad Pompeu Fabra,UPF,Barcelona,8002,4,0,11,33,39,2,58,22,23,23,41,75,148
+Universidad Pontificia de Salamanca ,Pontifical University of Salamanca,Universidad Pontificia de Salamanca,UPSA,Salamanca,37002,21,0,1,3,0,2,1,1,0,0,0,8,30
+Universidad Pública de Navarra ,Public University of Navarra,Universidad Pública de Navarra,UPNA,Pamplona,31006,34,9,0,12,12,5,26,2,1,13,16,15,151
+Universitat Ramon Llull ,Ramon Llull University,Universidad Ramon Llull,URL,Barcelona,8022,32,1,3,10,2,7,22,2,0,6,15,18,54
+Universidad Rovira y Virgili ,Rovira i Virgili University,Universidad Rovira i Virgili,URV,Tarragona,43003,9,0,1,14,9,14,69,9,4,26,31,47,152
+Universidad Católica de Valencia San Vicente Mártir ,Saint Vincent the Martyr Catholic University of Valencia,Universidad Católica de Valencia San Vicente Mártir,UCV,Valencia,46001,22,0,0,2,1,1,2,1,0,6,2,4,32
+Universidad Católica San Antonio de Murcia ,San Antonio Catholic University of Murcia,Universidad Católica San Antonio,UCAM,Guadalupe,30107,9,1,1,5,0,2,10,0,1,16,4,6,59
+Universidad San Jorge,San Jorge University,Universidad San Jorge,USJ,Villanueva de Gállego,50830,25,0,0,4,0,0,8,2,2,6,3,2,16
+Universidad Politécnica de Cataluña ,Universitat Politècnica de Catalunya - Barcelona Tech,Universidad Politécnica de Catalunya,UPC,Barcelona,8034,52,2,11,10,1,0,191,4,0,3,79,6,201
+Universidad Isabel I,University Isabel 1,Universidad Internacional Isabel I de Castilla,UII,Burgos,9003,91,0,0,1,0,1,1,1,0,0,0,2,25
+Universidade da Coruña ,University of A Coruña,Universidad de A Coruña,UDC,A Coruña,15001,41,7,5,10,13,14,63,6,7,17,35,30,200
+Universidad de Alcalá ,University of Alcalá,Universidad de Alcalá,UAH,Alcalá de Henares,28801,31,6,3,4,22,3,57,9,4,27,53,34,223
+Universitat d'Alacant ,University of Alicante,Universidad de Alicante,UAL,San Vicent del Raspeig,3690,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad de Almería ,University of Almería,Universidad de Almería,UALM,La Cañada de San Urbano,4120,42,4,0,4,2,1,7,0,0,0,10,5,42
+Universidad de Burgos ,University of Burgos,Universidad de Burgos,UBU,Burgos,9001,47,0,0,5,5,4,23,2,1,8,22,5,102
+Universidad de Cádiz ,University of Cádiz,Universidad de Cádiz,UCA,Cádiz,11001,39,4,1,13,6,20,63,15,13,36,82,42,360
+Universidad de Cantabria ,University of Cantabria,Universidad de Cantabria,UC,Santander,39005,10,1,2,13,12,8,54,13,2,12,40,10,188
+Universidad de Castilla-La Mancha ,University of Castilla-La Mancha,Universidad de Castilla-La Mancha,UCLM,Ciudad Real,13071,28,0,1,6,4,0,8,4,7,5,2,8,106
+Universidad de Córdoba ,University of Córdoba,Universidad de Córdoba,UCO,Córdoba,14071,24,21,1,2,4,4,20,7,6,14,28,23,136
+Universidad de Deusto ,University of Deusto,Universidad de Deusto,UDE,Bilbao,48007,90,0,1,4,3,1,4,2,4,0,1,5,52
+Universidad de Extremadura ,University of Extremadura,Universidad de Extremadura,UEx,Badajoz,6006,25,11,1,16,12,21,35,7,3,24,49,27,211
+Universidad de Gerona ,University of Girona,Universidad de Girona,UDG,Girona,17004,30,6,0,5,5,5,43,2,8,6,31,30,145
+Universidad de Huelva ,University of Huelva,Universidad de Huelva,UHU,Huelva,21071,44,5,0,5,2,17,20,12,6,7,9,34,105
+Universidad de Jaén ,University of Jaén,Universidad de Jaén,UJA,Jaén,23071,85,5,0,7,8,19,34,5,4,21,35,34,220
+Universidad de La Laguna ,University of La Laguna,Universidad de La Laguna,ULL,La Laguna,38200,22,5,2,9,12,13,28,9,1,47,72,39,233
+Universidad de la Rioja ,University of La Rioja,Universidad de la Rioja,URI,Logroño,26006,36,0,1,6,2,6,7,4,2,2,17,10,65
+Universidad de Las Palmas de Gran Canaria ,University of Las Palmas de Gran Canaria,Universidad de Las Palmas de Gran Canaria,UPGC,Las Palmas de Gran Canaria,35001,27,4,1,11,14,10,63,9,5,25,38,39,158
+Universidad de León ,University of León,Universidad de León,UNILEON,León,24071,61,4,0,6,4,3,8,1,2,9,9,9,115
+Universidad de Lérida ,University of Lleida,Universidad de Lleida,UDL,Lleida,25003,23,22,0,4,1,11,18,3,2,10,18,14,95
+Mondragón Unibertsitatea ,University of Mondragón,Mondragon Unibertsitatea,UM,Arrasate-Mondragón,20500,65,0,0,1,0,0,13,0,0,0,0,2,32
+Universidad de Murcia ,University of Murcia,Universidad de Murcia,UMU,Murcia,30003,21,11,2,12,22,32,39,18,5,79,77,53,343
+Universidad de Navarra ,University of Navarra,Universidad de Navarra,UNA,Pamplona,31009,12,3,3,26,13,6,9,15,11,77,26,18,224
+Universidad de Oviedo ,University of Oviedo,Universidad de Oviedo,UOV,Oviedo,33003,16,9,4,14,41,17,109,3,16,27,70,44,303
+Universidad de Santiago de Compostela ,University of Santiago de Compostela,Universidad de Santiago de Compostela,USC,Santiago de Compostela,15782,3,28,4,15,13,12,55,20,10,56,119,67,290
+Universidad de Sevilla ,University of Seville,Universidad de Sevilla,USE,Sevilla,41004,8,16,16,65,35,47,158,32,19,148,191,103,862
+Universidad de las Islas Baleares ,University of the Balearic Islands,Universidad de las Illes Balears,UIB,Palma,7122,13,3,1,3,14,12,25,8,2,28,40,30,124
+Universidad del País Vasco - Euskal Herriko Unibertsitatea ,University of the Basque Country,Universidad del País Vasco/Euskal Herriko Unibertsitatea,UPV/EHU,Leioa,48940,17,6,1,16,18,11,58,14,7,36,82,48,267
+Universidad de Valencia ,University of Valencia,Universitat de València,UVEG,Valencia,46010,2,8,1,34,33,31,40,18,17,69,141,72,382
+Universidad de Valladolid ,University of Valladolid,Universidad de Valladolid,UVA,Valladolid,47002,-1,13,10,18,12,31,65,17,7,39,76,35,352
+Universitat de Vic-Universitat Central de Catalunya ,University of Vic-Central University of Catalunya,Universidad de Vic,UVic-UCC,Vic,8500,62,2,0,5,1,1,8,2,0,8,7,6,63
+Universidad de Vigo ,University of Vigo,Universidad de Vigo,UVI,Vigo,36310,23,10,0,17,15,8,86,3,1,11,55,18,241
+Universidad de Zaragoza ,University of Zaragoza,Universidad de Zaragoza,UZA,Zaragoza,50009,7,8,9,31,54,22,119,15,15,44,94,64,560
+Hespérides,Hesperides,Hesperides,ULH,,,129,0,1,0,0,0,0,0,0,0,0,0,0
+Atlántico Medio,Middle Atlantic,Atlántico Medio,UNAM,Las Palmas,,125,0,1,0,0,0,0,0,0,0,0,0,3
+Universidad Intercontinental de la Empresa,University Intercontinental of Bussines,Universidad Intercontinental de la Empresa,UIE,Galicia,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Fernando Pessoa,University Fernando Pessoa,Universidad Fernando Pessoa-Canarias,UFP-C,Las Palmas,35450,115,0,0,0,0,0,0,0,1,1,0,0,6
+Universidad Internacional Villanueva,University of Villanueva,Internacional Villanueva,UV,Madrid,28034,110,0,0,1,0,2,0,1,0,0,0,1,3
+Universidad Internacional de la Empresa,International University of Bussiness,Universidad Internacional de la Empresa,UNIE,Madrid,28036,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Universidad Vitoria-Gasteiz,University Vitoria-Gasteiz,Universidad Euneiz,EUNEIZ,Álava,1013,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
