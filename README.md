@@ -70,4 +70,14 @@ otros
    - Abre una consola
    - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
    - Ejecuta el siguiente comando para editar crontab: ```console EDITOR=nano crontab -e```
-   - Copia el contenido de crontab_configuration y guarda el archivo 
+   - Copia el contenido del archivo SIC_Big_Data_CDC-ETLDB/Crontab configuration en la pantalla que aparece (ASEGÚRATE DE QUE LA RUTA AL ARCHIVO auto_process.sh ES CORRECTA)
+   - Guarda los cambios
+10. Ejecuta el agente flume que escucha tweets
+    - Abre una consola
+    - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
+    - Ejecuta el siguiente comando para activar el agente flume: ```console flume-ng agent -name tweet_listener -conf-file tweet_listener_agent.conf```
+    - NO CIERRES ESTA CONSOLA SI QUIERES ESCUCHAR TWEETS
+11. Simula los tweets
+    - Abre una consola
+    - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
+    - Ejecuta el siguiente comando para generar tweets: ```console python3 fake_tweet_generator.py localhost 44444```
