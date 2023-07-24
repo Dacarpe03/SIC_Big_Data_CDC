@@ -41,9 +41,18 @@ otros
 1. Descargar .zip de la rama main de github
 2. Extraer carpeta
 3. Crear e insertar datos en MariaDB
-4. Ejecuta
+4. Crea la base de datos e inserta datos en MariaDB
    - Abre una consola
-   - Ejecuta el comando ´pip install mysql-connector-python´
+   - Ejecuta el comando 'pip install mysql-connector-python'
    - Ejecuta jupyter notebook
    - Muévete a la carpeta SIC_Big_Data_CDC-ETLDB/Scripts
-   - Abre el archivo ´QEDU a MariaDB.ipynb´
+   - Abre el archivo 'QEDU a MariaDB.ipynb'
+5. Migra datos de Maria DB a Hive
+   - Abre una consola
+   - Navega a la carpeta SIC_Big_Data_CDC-ETLDB/Scripts
+   - Ejecuta el comando 'chmod u+x export_MariaDB_hive.sh'
+   - Ejecuta el comando './export_MariaDB_hive.sh'
+6. Crea la tabla externa de tweets en la base de datos de Hive
+   - Abre una consola
+   - Abre hive con el siguiente comando 'beeline -u 'jdbc:hive2://'
+   - 
