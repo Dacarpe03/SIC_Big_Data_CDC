@@ -36,3 +36,9 @@ ciencias_naturales: Física, matematicas
 ciencias_sociales: comunicación, humanidades, sociologia , humana
 
 otros
+
+# Instalación
+1. Descargar .zip de la rama main de github
+2. Extraer carpeta
+3. Ejecutar Jupyter notebook
+   4. Hola
