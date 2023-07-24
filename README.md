@@ -40,5 +40,5 @@ otros
 # Instalación
 1. Descargar .zip de la rama main de github
 2. Extraer carpeta
-3. Ejecutar Jupyter notebook
-   4. Hola
+3. Crear e insertar datos en MariaDB
+   - Abre una consola
