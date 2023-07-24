@@ -210,6 +210,7 @@ if __name__ == "__main__":
     # Generate a fake tweet
     print("Generating fake tweet:")
     tweet = generar_tweet_falso(faker)
+    print(tweet)
     # Parse the tweet
     msg = f"{tweet['usuario']}   {tweet['mensaje']}   {tweet['likes']}\n"
     # Send the tweet
