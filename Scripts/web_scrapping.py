@@ -3,10 +3,9 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-FILENAME = 'uni1.html'
-CSV_NAME = 'uni1.csv'
+FILENAME = '../Datos/uni2.html'
+CSV_NAME = '../Datos/uni2.csv'
 
-WHED_URL = 'https://www.whed.net/institutions'
 
 
 def getUniUrls(htmlFilename):
