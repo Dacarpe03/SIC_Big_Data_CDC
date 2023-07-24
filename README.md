@@ -42,3 +42,6 @@ otros
 2. Extraer carpeta
 3. Crear e insertar datos en MariaDB
    - Abre una consola
+   - Ejecuta jupyter notebook
+   - Muévete a la carpeta SIC_Big_Data_CDC-ETLDB/Scripts
+   - Abre el archivo ´QEDU a MariaDB.ipynb´
