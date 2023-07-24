@@ -72,7 +72,6 @@ otros
    - Ejecuta el siguiente comando para darle permisos de ejecución: ```chmod u+x auto_process.sh```
 9. Configura crontab para que ejecute el script de preprocesado de tweets cada minuto
    - Abre una consola
-   - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
    - Ejecuta el siguiente comando para editar crontab: ```EDITOR=nano crontab -e```
    - Copia el contenido del archivo SIC_Big_Data_CDC-ETLDB/Crontab configuration en la pantalla que aparece (ASEGÚRATE DE QUE LA RUTA AL ARCHIVO auto_process.sh ES CORRECTA)
    - Guarda los cambios
