@@ -38,7 +38,7 @@ ciencias_sociales: comunicación, humanidades, sociologia , humana
 otros
 
 
-
+Colores  2F10B0  FF7400  C001C7
 # Datos inventados de clasificaciones de universidades (rango 1-100, siendo 1 la mejor y 100 la peor)
 universidades = ['Universidad A', 'Universidad B', 'Universidad C', 'Universidad D', 'Universidad E']
 rankings = [10, 30, 50, 80, 90]
