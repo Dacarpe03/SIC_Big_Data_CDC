@@ -38,27 +38,35 @@ ciencias_sociales: comunicación, humanidades, sociologia , humana
 otros
 
 
---------------------------------------------------------------------------------------------
-DONUT:
-import matplotlib.pyplot as plt
 
-# Datos de ejemplo para el gráfico de donut
-categorias = ['Categoría 1', 'Categoría 2', 'Categoría 3', 'Categoría 4']
-valores = [30, 25, 15, 30]
+# Datos inventados de clasificaciones de universidades (rango 1-100, siendo 1 la mejor y 100 la peor)
+universidades = ['Universidad A', 'Universidad B', 'Universidad C', 'Universidad D', 'Universidad E']
+rankings = [10, 30, 50, 80, 90]
+posiciones_y = [1, 2, 3, 4, 5]
 
-# Colores pasteles personalizados (puedes cambiarlos por los que prefieras)
-colores_pasteles = ['#F2B5D4', '#AED4E6', '#F1CB94', '#D2B4DE']
+# Tamaño de los círculos proporcional a la posición en el eje y
+tamanio_circulos = [150 + pos * 100 for pos in posiciones_y]
+
+# Configuración de la gráfica
+plt.figure(figsize=(8, 6))
+
+# Dibujar los círculos en las coordenadas indicadas
+for universidad, ranking, y, size in zip(universidades, rankings, posiciones_y, tamanio_circulos):
+    plt.scatter(ranking, y, s=size, color='skyblue', edgecolor='black')
+    plt.text(ranking + 2, y, universidad, ha='left', va='center')
+
+# Configuración de ejes y etiquetas
+plt.xlabel('Ranking de Universidades')
+plt.ylabel('Posición en el eje Y')
+plt.title('Clasificación de Universidades', fontsize=16)
+plt.yticks(posiciones_y, universidades)
+
+# Mostrar gráfica
+plt.grid(True)
+plt.tight_layout()
+plt.show()
 
 
-2F10B0  FF7400  C001C7
-
-# Crear un gráfico de donut con colores pasteles
-fig, ax = plt.subplots()
-pie = ax.pie(valores, labels=categorias, autopct='%1.1f%%', startangle=90, wedgeprops=dict(width=0.3), colors=colores_pasteles)
-
-# Agregar un círculo blanco en el centro para crear el efecto de donut
-centro_circulo = plt.Circle((0, 0), 0.70, color='white')
-ax.add_artist(centro_circulo)
 
 # Ajustar la relación de aspecto para que el gráfico se vea como un círculo
 ax.axis('equal')
