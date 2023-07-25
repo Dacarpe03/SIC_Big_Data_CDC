@@ -36,3 +36,31 @@ ciencias_naturales: Física, matematicas
 ciencias_sociales: comunicación, humanidades, sociologia , humana
 
 otros
+
+
+--------------------------------------------------------------------------------------------
+DONUT:
+import matplotlib.pyplot as plt
+
+# Datos de ejemplo para el gráfico de donut
+categorias = ['Categoría 1', 'Categoría 2', 'Categoría 3', 'Categoría 4']
+valores = [30, 25, 15, 30]
+
+# Colores pasteles personalizados (puedes cambiarlos por los que prefieras)
+colores_pasteles = ['#F2B5D4', '#AED4E6', '#F1CB94', '#D2B4DE']
+
+# Crear un gráfico de donut con colores pasteles
+fig, ax = plt.subplots()
+pie = ax.pie(valores, labels=categorias, autopct='%1.1f%%', startangle=90, wedgeprops=dict(width=0.3), colors=colores_pasteles)
+
+# Agregar un círculo blanco en el centro para crear el efecto de donut
+centro_circulo = plt.Circle((0, 0), 0.70, color='white')
+ax.add_artist(centro_circulo)
+
+# Ajustar la relación de aspecto para que el gráfico se vea como un círculo
+ax.axis('equal')
+
+# Mostrar el gráfico de donut
+plt.title('Gráfico de Donut con Colores Pasteles')
+plt.show()
+------------------------------------------------------------------------------------------------------
