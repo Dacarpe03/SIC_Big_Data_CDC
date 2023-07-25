@@ -49,6 +49,9 @@ valores = [30, 25, 15, 30]
 # Colores pasteles personalizados (puedes cambiarlos por los que prefieras)
 colores_pasteles = ['#F2B5D4', '#AED4E6', '#F1CB94', '#D2B4DE']
 
+
+2F10B0  FF7400  C001C7
+
 # Crear un gráfico de donut con colores pasteles
 fig, ax = plt.subplots()
 pie = ax.pie(valores, labels=categorias, autopct='%1.1f%%', startangle=90, wedgeprops=dict(width=0.3), colors=colores_pasteles)
