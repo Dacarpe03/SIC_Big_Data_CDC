@@ -84,3 +84,41 @@ otros
     - Abre una consola
     - Navega a SIC_Big_Data_CDC-ETLDB/Scripts
     - Ejecuta el siguiente comando para generar tweets: ```python3 fake_tweet_generator.py localhost 44444```
+
+Colores  2F10B0  FF7400  C001C7
+# Datos inventados de clasificaciones de universidades (rango 1-100, siendo 1 la mejor y 100 la peor)
+universidades = ['Universidad A', 'Universidad B', 'Universidad C', 'Universidad D', 'Universidad E']
+rankings = [10, 30, 50, 80, 90]
+posiciones_y = [1, 2, 3, 4, 5]
+
+# Tamaño de los círculos proporcional a la posición en el eje y
+tamanio_circulos = [150 + pos * 100 for pos in posiciones_y]
+
+# Configuración de la gráfica
+plt.figure(figsize=(8, 6))
+
+# Dibujar los círculos en las coordenadas indicadas
+for universidad, ranking, y, size in zip(universidades, rankings, posiciones_y, tamanio_circulos):
+    plt.scatter(ranking, y, s=size, color='skyblue', edgecolor='black')
+    plt.text(ranking + 2, y, universidad, ha='left', va='center')
+
+# Configuración de ejes y etiquetas
+plt.xlabel('Ranking de Universidades')
+plt.ylabel('Posición en el eje Y')
+plt.title('Clasificación de Universidades', fontsize=16)
+plt.yticks(posiciones_y, universidades)
+
+# Mostrar gráfica
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+
+
+# Ajustar la relación de aspecto para que el gráfico se vea como un círculo
+ax.axis('equal')
+
+# Mostrar el gráfico de donut
+plt.title('Gráfico de Donut con Colores Pasteles')
+plt.show()
+
