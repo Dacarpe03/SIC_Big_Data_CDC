@@ -1,4 +1,4 @@
-nombre,nombre_ingles,nombre_regional,siglas,cuidad,codigo_postal,posicion_hindex,agricultura_forestal,arte_diseno_arquitectura,empresariales_administracion,economicas,educacion,ingenieria_tecnologia,historia_filosofia_teologia,leyes_abogacia,ciencias_salud,ciencias_naturales,ciencias_sociales,otros
+nombre,nombre_ingles,nombre_regional,siglas,ciudad,codigo_postal,posicion_hindex,agricultura_forestal,arte_diseno_arquitectura,empresariales_administracion,economicas,educacion,ingenieria_tecnologia,historia_filosofia_teologia,leyes_abogacia,ciencias_salud,ciencias_naturales,ciencias_sociales,otros
 Universidad Nacional de Educación a Distancia ,National University of Distance Education,Universidad Nacional de Educación a Distancia,UNED,Madrid,28015,57,0,1,1,5,4,23,4,5,0,4,13,71
 Universidad Abierta de Cataluña ,Open University of Cataluña,Universidad Oberta de Catalunya,UOC,Barcelona,8035,38,0,5,12,4,9,17,1,5,4,3,39,135
 Universidad Politécnica de Madrid,,Universidad Politécnica de Madrid,UPM,Madrid,28040,33,26,7,4,1,3,58,1,0,4,19,6,251
