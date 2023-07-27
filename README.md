@@ -38,11 +38,12 @@ ciencias_sociales: comunicación, humanidades, sociologia , humana
 otros
 
 # Instalación
-1. Descargar .zip de la rama main de github
-2. Extraer carpeta
-3. Crea la base de datos e inserta datos en MariaDB
-   - Abre una consola
+1. Descargar .zip de la rama main de github y extrae la carpeta
+2. Instala dependencias de python
    - Ejecuta el comando: ```pip install mysql-connector-python ```
+   - Ejecuta el comando: ```pip install matplotlib ```
+4. Crea la base de datos e inserta datos en MariaDB
+   - Abre una consola
    - Ejecuta jupyter notebook
    - Muévete a la carpeta SIC_Big_Data_CDC-ETLDB/Scripts
    - Abre el archivo: ```QEDU a MariaDB.ipynb ```
