@@ -1,4 +1,5 @@
-# SIC_Big_Data_CDC
+# U-Pick
+Sistema de recomendación de universidades
 
 # Instalación
 1. Descargar .zip de la rama main de github y extrae la carpeta
